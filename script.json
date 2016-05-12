@@ -1,11 +1,9 @@
 {
     "BOT": "Hi there!\nI’m the robot version of Andrei Sarusi",
-    //Greetings
     "HELLO": "Hey, how are you doing?",
     "HI": "Hey, how are you doing?",
     "HI": "Hey, how are you doing?",
     "WHAT'S UP?": "Hey, how are you doing?",
-    //PROTOCOL
     "CONNECT ME": "",
     "DISCONNECT": ""
 }
