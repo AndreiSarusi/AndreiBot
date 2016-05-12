@@ -1,6 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the robot version of Andrei Sarusi",
-    "HELLO": "Hey, How are you doing?",
+    "HELLO": "Hey, how are you doing?",
+    "HI": "Hey, how are you doing?",
     "CONNECT ME": "",
     "DISCONNECT": ""
 }
