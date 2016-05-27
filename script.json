@@ -11,6 +11,11 @@
     "HOW OLD ARE YOU?": "I'm 30 years old",
     "WHAT IS YOUR AGE?": "I'm 30 years old",
     "WHAT'S YOUR AGE?": "I'm 30 years old",
+    "WHERE DO YOU LIVE?": "I'm currently in Tokyo, but I'm looking to move back to Australia",
+    "WHERE ARE YOU BASED?": "I'm currently in Tokyo, but I'm looking to move back to Australia",
+    "WHAT COUNTRY ARE YOU IN?": "I'm currently in Japan, but I'm looking to move back to Australia",
+    "HOW MANY YEARS EXPERIENCE DO YOU HAVE?": "I have over 10 years experience in the design field",
+    "HOW CAN I CONTACT YOU?": "%[Email Andrei Now](mailto:andrei.sarusi@gmail.com)",
     "CONNECT ME": "",
     "DISCONNECT": ""
 }
