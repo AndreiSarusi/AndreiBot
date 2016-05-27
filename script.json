@@ -33,6 +33,8 @@
     "WHERE ARE YOU BASED?": "I'm currently in Tokyo, but I'm looking to move back to Australia",
     "WHAT COUNTRY ARE YOU IN?": "I'm currently in Japan, but I'm looking to move back to Australia",
     "HOW MANY YEARS EXPERIENCE DO YOU HAVE?": "I have over 10 years experience in the design field",
+    "DO YOU HAVE A LINKEDIN PROFILE?": "Yes, I do!\n[View Andrei's LinkedIn Profile](https://www.linkedin.com/in/andreisarusi)",
+    "ARE YOU ON LINKEDIN?": "Yes, I do!\n[View Andrei's LinkedIn Profile](https://www.linkedin.com/in/andreisarusi)",
     "HOW CAN I CONTACT YOU?": "You can get in touch with me by email:\n%[Email Andrei Now](mailto:andrei.sarusi@gmail.com)",
     "WHAT'S YOU EMAIL ADDRESS?": "You can get in touch with me by email:\n%[Email Andrei Now](mailto:andrei.sarusi@gmail.com)",
     "HOW MANY YEARS HAVE YOU WORKED IN YOUR CURRENT JOB?": "Over three years",
@@ -49,6 +51,7 @@
     "WHY DID YOU LEAVE YOUR LAST JOB?": "I wanted to move overseas to seek some different and new opportunities",
     "WHAT'S YOUR DREAM JOB?": "A job where I'm given the autonomy and trust to explore great design, and push the boundaries",
     "TELL ME ABOUT YOUR DREAM JOB": "Basically a job where I'm given the autonomy and trust to explore great design, and push the boundaries",
+    "TELL ME ABOUT YOURSELF": "My name is Andrei, I'm a design professional currently working within the airline industry. I have a passion for good design, innovation, and a keen attention to detial.",
     "CONNECT ME": "",
     "DISCONNECT": ""
 }
